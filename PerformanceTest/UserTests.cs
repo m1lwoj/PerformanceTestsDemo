@@ -8,7 +8,7 @@ using System;
 using System.Linq;
 using Xunit;
 
-namespace Pacco.Services.Availability.Tests.Performance
+namespace PerformanceTest
 {
     public class PerformanceTests
     {
